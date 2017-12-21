@@ -1,0 +1,30 @@
+﻿  a:link, a:visited {
+            background-color: #fff;
+            color: black;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+
+        a:hover {
+            background-color: red;
+            color: white;
+        }
+
+        a:active {
+            background-color: red;
+        }
+
+        a.two {
+            padding-top: 15px;
+            padding-left: 3%;
+            border-style: solid;
+            border-width: medium;
+            border-color: dodgerblue;
+        }
+
+        a:hover:not(.active) {
+            background-color: #111;
+        }
