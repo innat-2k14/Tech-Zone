@@ -5,7 +5,7 @@
 <br>
 Tech Zone BD will provide technical information on Windows OS & Android OS. Community will provide Trick , Tips about both OS. 
 <br>
-![capturef](https://user-images.githubusercontent.com/17668390/34289392-8ba4fe98-e71c-11e7-990a-4e8f7ffeb0ee.PNG)
+![b](https://user-images.githubusercontent.com/17668390/39472350-9e93def6-4cfd-11e8-8039-efad51f10ee1.jpg)
 
 <br><br>
 Hardware & Software will be major focused. In the Code Section it will be the best point to learn some of most popular programming language such as **C/C++ - Python - Swift - Java - C#** and also in aditional language such as Matlab & Arduino Code etc. It will be a great journey for new programmer to have such website where he can learn such new things and find help in a great respect.
